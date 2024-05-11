@@ -77,8 +77,11 @@ int main() {
 		cout << "4. Exit\n";
 		cout << "Enter your choice: ";
 
+		switch (choice) {
 		
+		}
+
+		cout << endl;
 	}
 
-	
 }
